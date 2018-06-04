@@ -25,7 +25,7 @@
 * ☐ City Market (Farmer's Market) \[[Link](http://thecitymarket.org/)]
 * ☐ West Bottoms \[[Link](https://www.visitkc.com/west-bottoms)]
 * ☐ Boulevard Brewing Company Tour \[[Link](https://www.boulevard.com)]
-
+* ☐ Loose Park \[[Link](http://kcparks.org/places/loose-park/)]
 
 ## Concerts
 * ☐ Grinders Concerts \[[Link](http://crossroadskc.com/)]
@@ -63,6 +63,7 @@
 ### Coffee
 * ☐ Thou Mayest \[[Link](https://thoumayest.com/)]
 * ☐ Westport Coffee House \[[Link](https://westportcoffeehouse.com/)]
+* ☐ Quay Coffee \[[Link](https://www.quaycoffee.com/)]
 
 ## Movies/TV Shows
 * ☐ Solo: A Star Wars Movies
